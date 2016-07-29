@@ -1,0 +1,6 @@
+C:\Users\achal.goel\Desktop\Predict_Annual_Revenue\Predict_Annual_Revenue\bin\Debug\Predict_Annual_Revenue.exe.config
+C:\Users\achal.goel\Desktop\Predict_Annual_Revenue\Predict_Annual_Revenue\bin\Debug\Predict_Annual_Revenue.exe
+C:\Users\achal.goel\Desktop\Predict_Annual_Revenue\Predict_Annual_Revenue\bin\Debug\Predict_Annual_Revenue.pdb
+C:\Users\achal.goel\Desktop\Predict_Annual_Revenue\Predict_Annual_Revenue\obj\Debug\Predict_Annual_Revenue.csprojResolveAssemblyReference.cache
+C:\Users\achal.goel\Desktop\Predict_Annual_Revenue\Predict_Annual_Revenue\obj\Debug\Predict_Annual_Revenue.exe
+C:\Users\achal.goel\Desktop\Predict_Annual_Revenue\Predict_Annual_Revenue\obj\Debug\Predict_Annual_Revenue.pdb
